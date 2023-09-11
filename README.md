@@ -11,7 +11,7 @@
 - 📄 Editors I use: VSCode and neovim
 - 🤞 Interesting things I'm working on (and hope it works out)
   -  🚧 Continue contributing to [Svelte](https://github.com/sveltejs/svelte)
-  -  📎 Hopefully contribute to other projects (e.g. [typst](https://github.com/typst/typst)))
+  -  📎 Hopefully contribute to other projects (e.g. [typst](https://github.com/typst/typst))
   -  🏫 Survive both school and a part-time job 👷
 - ⚡ Fun facts: I sometimes run as a hobby, read some self-help books, and draw. Again, sometimes.
 - 🔗 Links: [Linkedin](https://www.linkedin.com/in/ngtran6788/)
