@@ -10,8 +10,7 @@
   - [Laser Chess](https://github.com/ngtr6788/Laser_Chess_2), my Python implementation of an actual board game called [Laser Chess](https://www.thinkfun.com/products/laser-chess/)
 - 📄 Editors I use: VSCode and neovim
 - 🤞 Interesting things I'm working on (and hope it works out)
-  -  🚧 Continue contributing to [Svelte](https://github.com/sveltejs/svelte)
-  -  📎 Hopefully contribute to other projects (e.g. [typst](https://github.com/typst/typst))
-  -  🏫 Survive both school and a part-time job 👷
+  -  🚧 Start contributing to [Svelte](https://github.com/sveltejs/svelte) again
+  -  📎 Hopefully look into contributing to other projects (e.g. [typst](https://github.com/typst/typst))
 - ⚡ Fun facts: I sometimes run as a hobby, read some self-help books, and draw. Again, sometimes.
 - 🔗 Links: [Linkedin](https://www.linkedin.com/in/ngtran6788/)
