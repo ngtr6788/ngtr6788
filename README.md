@@ -5,4 +5,3 @@
 - 👨‍🎓 Graduated Computer Science at the University of Waterloo
 - 👨‍💻 Software-wise and career-wise, I want to explore new things, work in different places. I want *variety*.
 - 📄 Editors I use: VSCode and neovim
-- 🔗 Links: [Linkedin](https://www.linkedin.com/in/ngtran6788/)
